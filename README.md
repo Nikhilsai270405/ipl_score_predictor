@@ -1,9 +1,9 @@
-#Dataset
+# Dataset
 
 The dataset is be downloaded from https://www.kaggle.com/datasets/yuvrajdagur/ipl-dataset-season-2008-to-2017/data.
 
-Dataset Description:
-• mid: Unique match id.
+# Dataset Description:
+•  mid: Unique match id.
 
 • date: Date on which the match was played.
 
@@ -33,7 +33,7 @@ Dataset Description:
 
 • total: Total runs scored by batting team at the end of first innings.
 
-Algorithms Used:
+# Algorithms Used:
 Decision Tree Regressor
 Linear Regression
 Random Forest Regression
